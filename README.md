@@ -1,3 +1,6 @@
+Poke-app is fully react based, so in order to clone and use the code you have to download the npm modules.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
