@@ -1,3 +1,5 @@
+3rd Project Added to the list (The Dice Game With React)
+
 Some of the best practices of React with practical Examples uploaded.
 
 Poke-app is fully react based, so in order to clone and use the code you have to download the npm modules.
