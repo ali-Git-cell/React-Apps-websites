@@ -1,4 +1,4 @@
-3rd Project Added to the list (The Dice Game With React)
+All the Apps created in the repo are only built with CRA.
 
 Some of the best practices of React with practical Examples uploaded.
 
