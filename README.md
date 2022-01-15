@@ -1,10 +1,5 @@
 All the Apps created in the repo are only built with CRA.
 
-Some of the best practices of React with practical Examples uploaded.
-
-Poke-app is fully react based, so in order to clone and use the code you have to download the npm modules.
-
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
